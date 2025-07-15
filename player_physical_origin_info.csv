@@ -880,32 +880,280 @@ Luka Šamanić,6-10,227.0,19,Union Olimpija
 Deandre Ayton,7-0,252.0,1,Arizona
 Brook Lopez,7-1,282.0,10,Stanford
 E'Twaun Moore,6-3,191.0,55,Purdue
-Torrey Craig,6-5,221,UFA,South Carolina Upstate
-Nicolas Batum,6-8,230,25,Le Mans
-Kira Lewis Jr.,6-1,170,13,Alabama
-Cody Williams,6-7,190,10,Colorado
-Ramon Sessions,6-3,190,56,Nevada-Reno
-Blake Griffin,6-9,250,1,Oklahoma
-Blake Wesley,6-3,185,25,Notre Dame
-Rodney Hood,6-8,208,23,Duke
-Brandon Paul,6-4,200,UFA,Illinois
-Ryan Anderson,6-9,240,21,California
-Treveon Graham,6-5,219,UFA,Va Commonwealth
-Quincy Pondexter,6-7,230,26,Washington
-Tyler Dorsey,6-4,180,41,Oregon
-Jared Butler,6-3,193,40,Baylor
-Malcolm Brogdon,6-4,229,36,Virginia
-LeBron James,6-9,250,1,St. Vincent-St. Mary HS (OH)
-Boris Diaw,6-8,250,21,Pau Orthez
-Terrence Ross,6-7,206,8,Washington
-Jalen Johnson,6-8,219,20,Duke
-Danuel House Jr.,6-6,220,UFA,Texas A&M
-Marc Gasol,6-11,255,48,FC Barcelona
-Kyle Filipowski,6-11,250,32,Duke
-Mitchell Robinson,7-0,240,36,Western Kentucky
-Tristan Thompson,6-9,254,4,Texas-Austin
-Kevin Séraphin,6-10,278,17,Cholet
-Garrett Temple,6-5,195,UFA,Louisiana State
-Jordan Clarkson,6-3,194,46,Missouri
-Keon Johnson,6-5,185,21,Tennessee
-Cameron Johnson,6-8,210,11,North Carolina
+Torrey Craig,6-5,221.0,UFA,South Carolina Upstate
+Nicolas Batum,6-8,230.0,25,Le Mans
+Kira Lewis Jr.,6-1,170.0,13,Alabama
+Cody Williams,6-7,190.0,10,Colorado
+Ramon Sessions,6-3,190.0,56,Nevada-Reno
+Blake Griffin,6-9,250.0,1,Oklahoma
+Blake Wesley,6-3,185.0,25,Notre Dame
+Rodney Hood,6-8,208.0,23,Duke
+Brandon Paul,6-4,200.0,UFA,Illinois
+Ryan Anderson,6-9,240.0,21,California
+Treveon Graham,6-5,219.0,UFA,Va Commonwealth
+Quincy Pondexter,6-7,230.0,26,Washington
+Tyler Dorsey,6-4,180.0,41,Oregon
+Jared Butler,6-3,193.0,40,Baylor
+Malcolm Brogdon,6-4,229.0,36,Virginia
+LeBron James,6-9,250.0,1,St. Vincent-St. Mary HS (OH)
+Boris Diaw,6-8,250.0,21,Pau Orthez
+Terrence Ross,6-7,206.0,8,Washington
+Jalen Johnson,6-8,219.0,20,Duke
+Danuel House Jr.,6-6,220.0,UFA,Texas A&M
+Marc Gasol,6-11,255.0,48,FC Barcelona
+Kyle Filipowski,6-11,250.0,32,Duke
+Mitchell Robinson,7-0,240.0,36,Western Kentucky
+Tristan Thompson,6-9,254.0,4,Texas-Austin
+Kevin Séraphin,6-10,278.0,17,Cholet
+Garrett Temple,6-5,195.0,UFA,Louisiana State
+Jordan Clarkson,6-3,194.0,46,Missouri
+Keon Johnson,6-5,185.0,21,Tennessee
+Cameron Johnson,6-8,210.0,11,North Carolina
+Jorge Gutiérrez,6-3,189.0,UFA,California
+Kendrick Perkins,6-10,270.0,27,Clifton J. Ozen HS (TX)
+Robert Sacre,7-0,270.0,60,Gonzaga
+Josh Magette,6-1,160.0,0,Alabama Huntsville
+Zylan Cheatham,6-5,220.0,UFA,Arizona State
+Malcolm Miller,6-7,210.0,UFA,Holy Cross
+Caron Butler,6-7,228.0,10,Connecticut
+Brice Johnson,6-10,230.0,25,North Carolina
+Johnathan Motley,6-8,230.0,UFA,Baylor
+Anderson Varejão,6-11,260.0,30,FC Barcelona
+Brodric Thomas,6-5,185.0,UFA,Truman State
+Keaton Wallace,6-3,185.0,UFA,Texas-San Antonio
+Damien Wilkins,6-6,217.0,UFA,Georgia
+Hassani Gravett,6-2,187.0,,South Carolina
+Walt Lemon Jr.,6-3,180.0,,Bradley
+Quinndary Weatherspoon,6-3,205.0,49,Mississippi State
+Spencer Jones,6-7,225.0,UFA,Stanford
+Jeff Ayres,6-9,250.0,31,Arizona State
+Jett Howard,6-6,215.0,11,Michigan
+Andrew Goudelock,6-3,200.0,46,Charleston
+James Young,6-6,215.0,17,Kentucky
+Javon Freeman-Liberty,6-3,190.0,UFA,DePaul
+McKinley Wright IV,5-11,192.0,UFA,Colorado
+Reggie Perry,6-8,250.0,57,Mississippi State
+Khyri Thomas,6-3,210.0,38,Creighton
+Paul Watson,6-6,210.0,UFA,Fresno State
+Briante Weber,6-2,165.0,UFA,Virginia Commonwealth
+Mike Miller,6-8,218.0,5,Florida
+Nazr Mohammed,6-10,250.0,29,Kentucky
+Deonte Burton,6-4,240.0,UFA,Iowa State
+Darius Days,6-7,245.0,UFA,Winnipeg Sea Bears
+Mamadi Diakite,6-9,228.0,UFA,Virginia
+Sean McDermott,6-6,195.0,UFA,Butler
+Jamal Cain,6-6,191.0,UFA,Oakland
+Nigel Hayes,6-8,254.0,UFA,Wisconsin
+Ariel Hukporti,6-11,246.0,58,Riesen Ludwigsburg
+John Holland,6-5,205.0,UFA,Boston University
+Milton Doyle,6-4,180.0,,Loyola-Chicago
+Andrew White,6-7,210.0,,Syracuse
+Vincent Poirier,7-0,235.0,UFA,Baskonia
+Keljin Blevins,6-4,200.0,,Montana State
+Cam Spencer,6-4,205.0,53,Connecticut
+Kyle Guy,6-1,167.0,55,Virginia
+Kobe Bufkin,6-4,195.0,15,Michigan
+Georgios Papagiannis,7-1,240.0,13,Panathinaikos
+Devyn Marble,6-6,200.0,56,Iowa
+Luke Travers,6-7,207.0,56,Rockingham Flames (Aus.)
+Jordan Mickey,6-8,235.0,33,Louisiana State
+Devon Hall,6-5,215.0,53,Virginia
+Louis King,6-7,205.0,UFA,Oregon
+Freddie Gillespie,6-9,245.0,UFA,Baylor
+Vernon Carey Jr.,6-10,270.0,32,Duke
+Rasual Butler,6-7,215.0,52,La Salle
+Jeff Withey,7-0,230.0,39,Kansas
+Dakota Mathias,6-4,200.0,,Purdue
+Killian Tillie,6-9,220.0,UFA,Gonzaga
+Edy Tavares,7-3,265.0,43,Gran Canaria
+Chase Budinger,6-7,209.0,44,Arizona
+Charlie Brown Jr.,6-6,199.0,UFA,St. Joseph's (PA)
+Josh Hall,6-9,190.0,UFA,Moravian Prep (NC)
+Elton Brand,6-9,254.0,1,Duke
+Nikola Peković,6-11,307.0,31,Panathinaikos
+Keith Appling,6-1,185.0,UFA,Michigan State
+Joel Anthony,6-9,245.0,UFA,UNLV
+Johnny Furphy,6-9,200.0,35,Kansas
+Tyler Cook,6-8,255.0,UFA,Iowa
+Jeremy Pargo,6-2,219.0,0,Gonzaga
+Maurice Ndour,6-9,200.0,UFA,Ohio
+Nicolás Laprovíttola,6-4,180.0,UFA,Estudiantes
+C.J. Wilcox,6-5,195.0,28,Washington
+Isaiah Todd,6-9,219.0,31,G League Ignite
+Onuralp Bitim,6-6,215.0,UFA,Bursaspor
+Xavier Cooks,6-8,183.0,UFA,Winthrop
+Drew Peterson,6-9,205.0,UFA,Southern California
+Theo Pinson,6-7,212.0,UFA,North Carolina
+Jonathan Gibson,6-2,185.0,UFA,New Mexico State
+Ashton Hagans,6-3,190.0,UFA,Kentucky
+Jaylen Hoard,6-8,216.0,UFA,Wake Forest
+Jeff Dowtin Jr.,6-3,177.0,UFA,Rhode Island
+Michael Gbinije,6-7,200.0,49,Syracuse
+Amile Jefferson,6-9,222.0,,Duke
+Tyler Lydon,6-10,225.0,24,Syracuse
+Donte Grantham,6-8,215.0,,Clemson
+Skylar Mays,6-3,205.0,50,Louisiana State
+Pat Spencer,6-3,205.0,UFA,Northwestern
+Tremont Waters,5-10,175.0,51,Louisiana State
+Norvel Pelle,6-10,231.0,UFA,Iona
+Chris Chiozza,5-11,175.0,UFA,Florida
+Luis Montero,6-7,200.0,UFA,Westchester C.C.
+Kyle Wiltjer,6-10,240.0,UFA,Gonzaga
+Trevor Keels,6-4,221.0,42,Duke
+Aaron Harrison,6-6,210.0,UFA,Kentucky
+Jeremy Evans,6-9,200.0,55,Western Kentucky
+Xavier Moon,6-0,165.0,UFA,Morehead State
+Sidy Cissoko,6-6,200.0,44,NBA G League Ignite
+Jordan Farmar,6-2,180.0,26,UCLA
+Daniel Ochefu,6-11,245.0,UFA,Villanova
+Anthony Bennett,6-8,235.0,1,UNLV
+Wendell Moore Jr.,6-5,215.0,26,Duke
+Kennedy Chandler,5-11,170.0,38,Tennessee
+MarShon Brooks,6-5,200.0,25,Providence
+Admiral Schofield,6-5,241.0,42,Tennessee
+Leonard Miller,6-10,220.0,33,NBA G League Ignite
+Xavier Munford,6-4,173.0,,Rhode Island
+John Butler,7-0,190.0,UFA,Florida State
+Tony Wroten,6-6,205.0,25,Washington
+Leandro Bolmaro,6-6,200.0,23,FC Barcelona
+Demetrius Jackson,6-1,201.0,45,Notre Dame
+Reece Beekman,6-3,190.0,UFA,Virginia
+Matt Bonner,6-10,235.0,45,Florida
+Bronny James,6-3,210.0,55,Southern California
+Lindell Wigginton,6-1,189.0,,Iowa State
+Cameron Bairstow,6-9,250.0,49,New Mexico
+Julyan Stone,6-6,200.0,UFA,Texas-El Paso
+Juwan Morgan,6-7,232.0,UFA,Indiana
+Derrick Walton,6-0,185.0,UFA,Michigan
+Cliff Alexander,6-8,240.0,UFA,Kansas
+Yante Maten,6-8,240.0,,Georgia
+Kendall Brown,6-7,205.0,48,Baylor
+Kevin Martin,6-7,199.0,26,Western Carolina
+Reggie Williams,,,4,Georgetown
+Ryan Kelly,6-11,230.0,48,Duke
+Sergey Karasev,6-7,208.0,19,Zenit Saint Petersburg
+Jarell Eddie,6-7,218.0,UFA,Virginia Tech
+Daniel Oturu,6-8,240.0,33,Minnesota
+Chuck Hayes,6-6,240.0,UFA,Kentucky
+Henry Ellenson,6-10,240.0,18,Marquette
+Jared McCain,6-3,195.0,16,Duke
+Ray Spalding,6-9,225.0,56,Louisville
+Malachi Richardson,6-6,205.0,22,Syracuse
+Bobi Klintman,6-9,225.0,37,Wake Forest
+Justin Harper,6-10,225.0,32,Richmond
+Elijah Millsap,6-7,215.0,UFA,Alabama-Birmingham
+Dru Smith,6-2,203.0,UFA,Missouri
+Jarnell Stokes,6-9,255.0,35,Tennessee
+Chris Kaman,7-0,265.0,6,Central Michigan
+Jontay Porter,6-10,240.0,UFA,Missouri
+Jalen Hood-Schifino,6-5,210.0,17,Indiana
+Isaiah Crawford,6-6,220.0,UFA,Louisiana Tech
+Jared Rhoden,6-5,210.0,UFA,Seton Hall
+Rodney Purvis,6-4,205.0,UFA,Connecticut
+Emoni Bates,6-8,202.0,49,Eastern Michigan
+Drew Timme,6-10,235.0,UFA,Gonzaga
+Tyler Smith,6-9,224.0,33,NBA G League Ignite
+Alex Poythress,6-9,235.0,UFA,Kentucky
+Branden Dawson,6-6,225.0,56,Michigan State
+Mfiondu Kabengele,6-10,250.0,27,Florida State
+Shayne Whittington,6-11,250.0,UFA,Western Michigan
+Kadeem Allen,6-1,200.0,53,Arizona
+Phil Pressey,5-11,175.0,UFA,Missouri
+Myke Henry,6-6,210.0,,DePaul
+John Lucas III,5-11,166.0,UFA,Oklahoma State
+Greg Smith,6-5,195.0,50,Western Kentucky
+Joe Wieskamp,6-6,205.0,41,Iowa
+Lester Quiñones,6-4,208.0,UFA,Memphis
+Wade Baldwin,6-4,200.0,17,Vanderbilt
+Jacob Evans,6-4,210.0,28,Cincinnati
+Sheldon Mac,6-6,200.0,,Miami
+Jordan McRae,6-5,179.0,58,Tennessee
+Trevor Hudgins,6-0,180.0,UFA,Northwest Missouri St.
+Tim Quarterman,6-6,190.0,,Louisiana State
+Daniel Hamilton,6-7,195.0,56,Connecticut
+James Nunnally,6-7,205.0,UFA,Cal-Santa Barbara
+Nate Hinton,6-5,210.0,UFA,Houston
+Dahntay Jones,6-6,225.0,20,Duke
+Matt Mooney,6-2,199.0,UFA,Texas Tech
+Jabari Bird,6-6,198.0,56,California
+Rakeem Christmas,6-9,250.0,36,Syracuse
+Cassius Winston,6-1,185.0,53,Michigan State
+Daryl Macon,6-2,185.0,,Arkansas
+Carlik Jones,6-0,174.0,UFA,Louisville
+Jack Cooley,6-10,274.0,UFA,Notre Dame
+Melvin Frazier,6-5,215.0,35,Tulane
+Anžejs Pasečņiks,7-1,229.0,25,Gran Canaria
+Olivier Sarr,6-10,240.0,UFA,Kentucky
+Oscar Tshiebwe,6-8,255.0,UFA,Kentucky
+A.J. Lawson,6-6,179.0,UFA,South Carolina
+Rayan Rupert,6-6,195.0,43,New Zealand Breakers
+Zhou Qi,7-1,210.0,43,Xinjiang
+Dereon Seabron,6-5,180.0,UFA,North Carolina State
+Brandon Sampson,6-5,184.0,,Louisiana State
+Jamil Wilson,6-7,229.0,UFA,Marquette
+Joel Bolomboy,6-9,235.0,52,Weber State
+Duje Dukan,6-9,220.0,UFA,Wisconsin
+Alen Smailagić,6-10,215.0,39,Beko
+Sasha Kaun,6-11,260.0,56,Kansas
+Eugene Omoruyi,6-6,235.0,UFA,Oregon
+Carsen Edwards,5-11,200.0,33,Purdue
+Udonis Haslem,6-7,235.0,UFA,Florida
+Nico Mannion,6-2,190.0,48,Arizona
+Axel Toupane,6-7,210.0,UFA,Strasbourg IG
+Didi Louzada,6-5,188.0,35,Sydney
+Coty Clarke,6-7,225.0,UFA,Arkansas
+Trevelin Queen,6-5,190.0,UFA,New Mexico State
+Joe Chealey,6-4,190.0,,College of Charleston
+Greivis Vásquez,6-6,217.0,28,Maryland
+Micah Potter,6-9,248.0,UFA,Wisconsin
+Marshall Plumlee,7-0,250.0,UFA,Duke
+Kostas Papanikolaou,6-8,235.0,48,FC Barcelona
+Chris Copeland,6-9,239.0,UFA,Colorado
+Devin Robinson,6-8,200.0,,Florida
+Jarrell Brantley,6-5,250.0,50,College of Charleston
+Devontae Cacok,6-7,240.0,UFA,UNC-Wilmington
+Jarrod Uthoff,6-9,220.0,UFA,Iowa
+Cleanthony Early,6-8,210.0,34,Wichita State
+Chris McCullough,6-9,215.0,29,Syracuse
+DeJuan Blair,6-7,270.0,37,Pittsburgh
+Stephen Zimmerman,7-0,240.0,41,UNLV
+Damion Baugh,6-4,194.0,UFA,TCU
+Maxwell Lewis,6-7,215.0,40,Pepperdine
+Chris Andersen,6-10,245.0,UFA,Blinn J.C.
+Justin Minaya,6-5,205.0,UFA,Providence
+Cam Christie,6-6,190.0,46,Minnesota
+Malik Newman,6-3,190.0,,Kansas
+Lindy Waters III,6-6,210.0,UFA,Oklahoma State
+Markus Howard,5-10,175.0,UFA,Marquette
+Mike James,6-2,188.0,UFA,Duquesne
+Dakari Johnson,7-0,255.0,48,Kentucky
+Jacob Toppin,6-8,200.0,UFA,Kentucky
+Lou Amundson,6-9,220.0,UFA,UNLV
+Diamond Stone,6-11,255.0,40,Maryland
+Naz Mitrou-Long,6-3,218.0,UFA,Iowa State
+Mitch McGary,6-10,255.0,21,Michigan
+Pacome Dadiet,6-8,210.0,25,Ratiopharm Ulm
+Chris Livingston,6-6,220.0,58,Kentucky
+Dairis Bertāns,6-4,200.0,UFA,Olimpia Milano
+Dillon Jones,6-5,235.0,26,Weber State
+Isaiah Mobley,6-8,238.0,49,USC
+Cole Swider,6-8,220.0,UFA,Syracuse
+Jordan Bone,6-2,180.0,57,Tennessee
+Larry Drew II,6-2,180.0,UFA,UCLA
+Chinanu Onuaku,6-10,245.0,37,Louisville
+Chris Silva,6-8,234.0,UFA,South Carolina
+Branden Carlson,7-0,220.0,UFA,Utah
+Kirk Hinrich,6-4,190.0,7,Kansas
+Damien Inglis,6-8,246.0,31,Chorale Roanne
+Jordan Hamilton,6-7,220.0,26,Texas
+Enrique Freeman,6-7,220.0,50,Akron
+David Duke Jr.,6-4,204.0,UFA,Providence
+Johnathan Williams,6-9,228.0,UFA,Gonzaga
+Alize Johnson,6-8,212.0,50,Missouri State
+Braxton Key,6-8,225.0,UFA,Virginia
+Colby Jones,6-6,207.0,34,Xavier
+Jaden Springer,6-4,202.0,28,Tennessee
+Nathan Knight,6-8,253.0,UFA,William & Mary
+Justin Patton,6-11,241.0,16,Creighton
+Jahmi'us Ramsey,6-3,190.0,43,Texas Tech
+Zhaire Smith,6-3,205.0,16,Texas Tech
