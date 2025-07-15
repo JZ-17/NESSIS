@@ -1,0 +1,911 @@
+Player,Height,Weight,DraftNumber,Origin
+Otto Porter Jr.,6-8,230.0,3,Georgetown
+Andre Iguodala,6-6,215.0,9,Arizona
+Evan Turner,6-6,220.0,2,Ohio State
+Caris LeVert,6-6,205.0,20,Michigan
+Jonathon Simmons,6-6,195.0,0,Houston
+Lance Thomas,6-8,225.0,UFA,Duke
+Luguentz Dort,6-4,220.0,UFA,Arizona State
+Nickeil Alexander-Walker,6-5,205.0,17,Virginia Tech
+Christian Wood,6-8,214.0,UFA,UNLV
+Mario Chalmers,6-2,190.0,34,Kansas
+Jayson Tatum,6-8,210.0,3,Duke
+Jock Landale,6-11,255.0,UFA,St. Mary's
+Alex Caruso,6-5,186.0,UFA,Texas A&M
+Tari Eason,6-8,215.0,17,Louisiana State
+TyTy Washington Jr.,6-3,195.0,29,Kentucky
+DeMarcus Cousins,6-10,270.0,5,Kentucky
+Joffrey Lauvergne,6-11,260.0,55,Khimki
+Trey Burke,6-0,185.0,9,Michigan
+Jawun Evans,6-0,190.0,39,Oklahoma State
+Pablo Prigioni,6-3,185.0,UFA,Baskonia
+Pau Gasol,7-0,250.0,3,FC Barcelona
+Andrew Bogut,7-0,260.0,1,Utah
+Tim Hardaway Jr.,6-5,205.0,24,Michigan
+Randy Foye,6-4,218.0,7,Villanova
+Kosta Koufos,7-0,245.0,23,Ohio State
+Ziaire Williams,6-9,185.0,10,Stanford
+Corey Brewer,6-9,188.0,7,Florida
+Jason Thompson,6-11,250.0,12,Rider
+Ben Sheppard,6-6,190.0,26,Belmont
+Jahlil Okafor,6-10,270.0,3,Duke
+Tyler Ennis,6-3,194.0,18,Syracuse
+Danny Green,6-6,215.0,46,North Carolina
+Doug McDermott,6-6,225.0,11,Creighton
+Alfonzo McKinnie,6-7,215.0,UFA,Wisc.-Green Bay
+Jeremiah Robinson-Earl,6-8,240.0,32,Villanova
+Harry Giles,6-10,240.0,20,Duke
+Frank Ntilikina,6-4,200.0,8,Strasbourg IG
+DeAndre Liggins,6-6,209.0,53,Kentucky
+Frank Jackson,6-3,205.0,31,Duke
+Marcus Sasser,6-2,195.0,25,Houston
+O.J. Mayo,6-5,210.0,3,Southern California
+Richard Jefferson,6-7,233.0,13,Arizona
+Jericho Sims,6-10,250.0,58,Texas
+Jaylen Adams,6-0,225.0,UFA,St. Bonaventure
+Marcelo Huertas,6-3,200.0,UFA,FC Barcelona
+Miye Oni,6-5,206.0,58,Yale
+Glenn Robinson III,6-6,222.0,40,Michigan
+Jalen McDaniels,6-9,190.0,52,San Diego State
+Damjan Rudež,6-10,228.0,UFA,Zaragoza
+Tony Snell,6-6,213.0,20,New Mexico
+Amar'e Stoudemire,6-10,245.0,9,Cypress Creek HS (FL)
+Nikola Jović,6-10,205.0,27,Mega Basket
+Kendrick Nunn,6-3,190.0,UFA,Oakland
+Aron Baynes,6-10,260.0,UFA,Washington State
+Wilson Chandler,6-8,235.0,23,DePaul
+Willie Reed,6-11,245.0,0,St. Louis
+Kris Murray,6-8,216.0,23,Iowa
+Vince Carter,6-6,220.0,5,North Carolina
+Thaddeus Young,6-8,225.0,12,Georgia Tech
+Corey Kispert,6-6,224.0,15,Gonzaga
+Kent Bazemore,6-4,195.0,UFA,Old Dominion
+Dillon Brooks,6-6,225.0,45,Oregon
+Kyle Anderson,6-9,230.0,30,UCLA
+Isaac Okoro,6-5,225.0,5,Auburn
+Darius Miller,6-6,225.0,46,Kentucky
+Leandro Barbosa,6-3,194.0,28,Bauru
+Will Barton,6-5,181.0,40,Memphis
+Zach LaVine,6-5,200.0,13,UCLA
+Ish Smith,6-0,175.0,UFA,Wake Forest
+Brandon Clarke,6-8,215.0,21,Gonzaga
+David Lee,6-9,245.0,30,Florida
+Jaylen Nowell,6-4,201.0,43,Washington
+DeMar DeRozan,6-6,220.0,9,Southern California
+Archie Goodwin,6-5,205.0,29,Kentucky
+Enes Freedom,6-10,250.0,3,Fenerbahce
+AJ Griffin,6-6,220.0,16,Duke
+Malcolm Delaney,6-3,190.0,UFA,Virginia Tech
+Alan Williams,6-8,265.0,UFA,Cal-Santa Barbara
+Chris Johnson,6-11,210.0,UFA,Louisiana State
+Shabazz Napier,6-0,175.0,24,Connecticut
+Roy Hibbert,7-2,270.0,17,Georgetown
+Klay Thompson,6-5,220.0,11,Washington State
+Jerryd Bayless,6-3,200.0,11,Arizona
+J.J. Barea,5-10,180.0,UFA,Northeastern
+Max Christie,6-5,190.0,35,Michigan State
+Cedi Osman,6-7,230.0,31,Anadolu Efes
+Markelle Fultz,6-4,209.0,1,Washington
+Thanasis Antetokounmpo,6-7,219.0,51,Panathinaikos
+Daniel Gafford,6-10,265.0,38,Arkansas
+Davion Mitchell,6-0,202.0,9,Baylor
+Jamal Shead,6-1,200.0,45,Houston
+Monta Ellis,6-3,185.0,40,Lanier HS (MS)
+Dalen Terry,6-7,195.0,18,Arizona
+Daniel Theis,6-8,245.0,UFA,Brose Bamberg
+John Jenkins,6-4,215.0,23,Vanderbilt
+Ochai Agbaji,6-5,215.0,14,Kansas
+Hollis Thompson,6-8,206.0,UFA,Georgetown
+Tim Duncan,6-11,250.0,1,Wake Forest
+Justin Holiday,6-6,180.0,UFA,Washington
+Collin Sexton,6-3,190.0,8,Alabama
+Wenyen Gabriel,6-9,205.0,UFA,Kentucky
+Giannis Antetokounmpo,6-11,243.0,15,Filathlitikos
+Matt Ryan,6-6,215.0,UFA,Tennessee-Chattanooga
+Romeo Langford,6-5,216.0,14,Indiana
+Gordon Hayward,6-7,225.0,9,Butler
+Walker Kessler,7-0,245.0,22,Auburn
+Nick Smith Jr.,6-2,185.0,27,Arkansas
+Josh McRoberts,6-10,240.0,37,Duke
+Kevin Huerter,6-7,198.0,19,Maryland
+Deyonta Davis,6-11,237.0,31,Michigan State
+Marvin Williams,6-8,237.0,2,North Carolina
+Aaron Nesmith,6-6,215.0,14,Vanderbilt
+Kawhi Leonard,6-7,225.0,15,San Diego State
+Lavoy Allen,6-9,260.0,50,Temple
+Jeremy Lin,6-3,200.0,UFA,Harvard
+John Wall,6-3,210.0,1,Kentucky
+Jusuf Nurkić,7-0,290.0,16,Cedevita
+Kyle O'Quinn,6-9,250.0,49,Norfolk State
+Shelvin Mack,6-3,203.0,34,Butler
+Jalen Wilson,6-6,220.0,51,Kansas
+Drew Gooden,6-10,250.0,4,Kansas
+Mouhamed Gueye,6-10,210.0,39,Washington State
+Kevon Harris,6-5,216.0,UFA,Stephen F. Austin
+Tyler Kolek,6-3,195.0,34,Marquette
+Pascal Siakam,6-8,245.0,27,New Mexico State
+Jae Crowder,6-6,235.0,34,Marquette
+D'Angelo Russell,6-3,193.0,2,Ohio State
+Kris Dunn,6-3,205.0,5,Providence
+Harrison Barnes,6-8,225.0,7,North Carolina
+Jeremy Lamb,6-5,180.0,12,Connecticut
+JaVale McGee,7-0,270.0,18,Nevada
+DaQuan Jeffries,6-5,222.0,UFA,Tulsa
+Wesley Johnson,6-7,215.0,4,Syracuse
+Avery Bradley,6-3,180.0,19,University of Texas at Austin
+Rodney Stuckey,6-5,205.0,15,Eastern Washington
+Bam Adebayo,6-9,255.0,14,Kentucky
+Nic Claxton,6-11,215.0,31,Georgia
+Scotty Pippen Jr.,6-1,170.0,UFA,Vanderbilt
+Russell Westbrook,6-4,200.0,4,UCLA
+Jordan Goodwin,6-5,215.0,UFA,St. Louis
+Austin Reaves,6-5,197.0,UFA,Oklahoma
+Dwight Powell,6-10,240.0,45,Stanford
+Shaun Livingston,6-7,192.0,4,Peoria Central HS (IL)
+Allonzo Trier,6-4,200.0,,Arizona
+Juancho Hernangómez,6-9,214.0,15,Estudiantes
+Dwayne Bacon,6-6,221.0,40,Florida State
+Kris Humphries,6-9,235.0,14,Minnesota
+Mo Williams,6-1,198.0,47,Alabama
+Kevin Garnett,6-11,240.0,5,Farragut Academy HS (IL)
+Darrun Hilliard,6-6,220.0,38,Villanova
+Orlando Robinson,6-10,235.0,UFA,Fresno State
+Jared Sullinger,6-9,260.0,21,Ohio State
+Saben Lee,6-2,183.0,38,Vanderbilt
+Trevor Booker,6-8,228.0,23,Clemson
+Ivan Rabb,6-10,220.0,35,California
+Joe Ingles,6-8,220.0,UFA,Maccabi Tel Aviv
+Kevon Looney,6-9,222.0,30,UCLA
+Brandon Miller,6-7,200.0,2,Alabama
+Wesley Matthews,6-5,220.0,UFA,Marquette
+Jerian Grant,6-4,198.0,19,Notre Dame
+Nerlens Noel,6-10,220.0,6,Kentucky
+James Anderson,6-6,213.0,20,Oklahoma State
+Lamar Stevens,6-7,230.0,UFA,Penn State
+Oshae Brissett,6-7,210.0,UFA,Syracuse
+Salah Mejri,7-2,235.0,UFA,Real Madrid
+Malik Monk,6-3,200.0,11,Kentucky
+Chimezie Metu,6-10,225.0,49,USC
+Haywood Highsmith,6-5,220.0,,Wheeling Jesuit
+Amir Johnson,6-9,240.0,56,Westchester HS (CA)
+Lance Stephenson,6-5,210.0,40,Cincinnati
+Taj Gibson,6-9,232.0,26,Southern California
+Ausar Thompson,6-6,205.0,5,Overtime Elite
+Davon Reed,6-5,206.0,32,Miami
+DeMarre Carroll,6-6,215.0,27,Missouri
+KZ Okpala,6-8,215.0,32,Stanford
+Brandon Jennings,6-1,170.0,10,Virtus Roma
+Pelle Larsson,6-5,215.0,44,Arizona
+Taylor Hendricks,6-9,215.0,9,Central Florida
+Cheick Diallo,6-8,219.0,33,Kansas
+Jonathan Isaac,6-10,230.0,6,Florida State
+Joe Johnson,6-7,240.0,10,Arkansas
+Neemias Queta,7-0,248.0,39,Utah State
+Javonte Green,6-5,205.0,UFA,Radford
+Gary Payton II,6-2,195.0,UFA,Oregon State
+Bismack Biyombo,6-8,255.0,7,Baloncesto Fuenlabrada
+Patty Mills,6-2,180.0,55,St. Mary's
+Joe Harris,6-6,220.0,33,Virginia
+Drew Eubanks,6-10,245.0,UFA,Oregon State
+Ante Žižić,6-10,266.0,23,Darussafaka
+Isaiah Collier,6-3,210.0,29,Southern California
+Aaron Brooks,6-0,161.0,26,Oregon
+Kyle Lowry,6-0,196.0,24,Villanova
+Dalano Banton,6-8,203.0,46,Nebraska
+Troy Daniels,6-4,200.0,UFA,Va Commonwealth
+Jared Dudley,6-6,237.0,22,Boston College
+Paul Pierce,6-7,235.0,10,Kansas
+PJ Dozier,6-6,205.0,UFA,South Carolina
+Kendall Marshall,6-4,200.0,13,North Carolina
+Terrence Jones,6-9,252.0,18,Kentucky
+Nenê,6-11,250.0,7,Vasco de Gama
+Talen Horton-Tucker,6-4,234.0,46,Iowa State
+Terrence Shannon Jr.,6-6,215.0,27,Illinois
+Norman Powell,6-4,215.0,46,UCLA
+Dante Exum,6-5,214.0,5,Australian Institute of Sport
+Precious Achiuwa,6-8,243.0,20,Memphis
+Isaiah Hartenstein,7-0,250.0,43,Zalgiris
+Matisse Thybulle,6-5,201.0,20,Washington
+Wendell Carter Jr.,6-10,270.0,7,Duke
+Luol Deng,6-9,237.0,7,Duke
+Ivica Zubac,7-0,240.0,32,Mega Basket
+Juan Toscano-Anderson,6-6,209.0,UFA,Marquette
+Khem Birch,6-8,233.0,UFA,UNLV
+Aleksej Pokusevski,7-0,210.0,17,Olympiacos
+Victor Wembanyama,7-3,235.0,1,Metropolitans 92
+DeAndre' Bembry,6-5,210.0,21,St. Joseph's (PA)
+Day'Ron Sharpe,6-9,265.0,29,North Carolina
+Luke Kornet,7-1,250.0,UFA,Vanderbilt
+Immanuel Quickley,6-2,190.0,25,Kentucky
+Zach Collins,6-11,250.0,10,Gonzaga
+Keon Ellis,6-4,175.0,UFA,Alabama
+Bilal Coulibaly,6-8,195.0,7,Metropolitans 92
+Josh Hart,6-4,215.0,30,Villanova
+Kobe Bryant,6-6,212.0,13,Lower Merion HS (PA)
+Jonathan Mogbo,6-9,225.0,31,San Francisco
+Draymond Green,6-6,230.0,35,Michigan State
+Jonah Bolden,6-8,225.0,36,UCLA
+Isaiah Joe,6-3,165.0,49,Arkansas
+Josh Christopher,6-4,215.0,24,Arizona State
+Mychal Mulder,6-3,195.0,UFA,Kentucky
+Sam Merrill,6-4,205.0,60,Utah State
+Isaiah Livers,6-6,232.0,42,Michigan
+Damion Lee,6-6,210.0,UFA,Drexel
+Trent Forrest,6-4,210.0,UFA,Florida State
+Sindarius Thornwell,6-4,215.0,48,South Carolina
+Vince Williams Jr.,6-4,205.0,47,Virginia Commonwealth
+Bruce Brown,6-4,202.0,42,Miami
+Gerald Green,6-7,205.0,18,No College
+Mindaugas Kuzminskas,6-9,215.0,UFA,Malaga
+Chris Clemons,5-9,180.0,UFA,Campbell University
+Solomon Hill,6-6,226.0,23,Arizona
+Montrezl Harrell,6-7,240.0,32,Louisville
+D.J. Wilson,6-10,231.0,17,Michigan
+Tyler Herro,6-5,195.0,13,Kentucky
+Kyle Kuzma,6-9,221.0,27,Utah
+Maxi Kleber,6-10,240.0,UFA,Bayern Munich
+Eric Gordon,6-3,215.0,7,Indiana
+Andre Roberson,6-7,210.0,26,Colorado
+Abdel Nader,6-5,225.0,58,Iowa State
+Gorgui Dieng,6-10,248.0,21,Louisville
+Trevor Ariza,6-8,215.0,43,UCLA
+P.J. Washington,6-6,230.0,12,Kentucky
+Keyonte George,6-4,185.0,16,Baylor
+Anthony Brown,6-7,224.0,34,Stanford
+Ron Baker,6-4,220.0,UFA,Wichita State
+Marquese Chriss,6-9,240.0,8,Washington
+Isaiah Thomas,5-9,185.0,60,Washington
+Garrison Mathews,6-6,215.0,UFA,Lipscomb
+Ish Wainright,6-5,250.0,UFA,Baylor
+Jaylon Tyson,6-6,215.0,20,California
+Marko Gudurić,6-6,201.0,UFA,Fenerbahce
+Rodney McGruder,6-4,205.0,UFA,Kansas State
+Chandler Hutchison,6-6,210.0,22,Boise State
+Nick Young,6-7,210.0,16,Southern California
+Miles McBride,6-1,195.0,36,West Virginia
+Chuma Okeke,6-7,229.0,16,Auburn
+Peyton Watson,6-7,200.0,30,UCLA
+Ajay Mitchell,6-5,190.0,38,California-Santa Barbara
+Kyle Singler,6-8,228.0,33,Duke
+Devin Vassell,6-5,200.0,11,Florida State
+Jeremy Sochan,6-8,230.0,9,Baylor
+Bobby Brown,6-2,175.0,UFA,Cal State-Fullerton
+Al Horford,6-9,240.0,3,Florida
+Moussa Diabaté,6-9,210.0,43,Michigan
+Marcus Georges-Hunt,6-5,226.0,UFA,Georgia Tech
+RJ Barrett,6-6,214.0,3,Duke
+Jordan Nwora,6-8,225.0,45,Louisville
+Sam Hauser,6-7,217.0,UFA,Virginia
+Jamal Murray,6-4,215.0,7,Kentucky
+Darrell Arthur,6-9,235.0,27,Kansas
+Kristaps Porziņģis,7-2,240.0,4,Cajasol Sevilla
+Kyle Korver,6-7,212.0,51,Creighton
+Noah Clowney,6-9,210.0,21,Alabama
+Goran Dragić,6-4,190.0,45,Union Olimpija
+Onyeka Okongwu,6-10,240.0,6,Southern California
+Terry Taylor,6-4,230.0,UFA,Austin Peay
+Tyson Chandler,7-0,235.0,2,Dominguez HS (CA)
+Danilo Gallinari,6-10,236.0,6,Olimpia Milano
+Christian Braun,6-6,220.0,21,Kansas
+Lou Williams,6-2,175.0,45,South Gwinnett HS (GA)
+Anthony Morrow,6-5,210.0,UFA,Georgia Tech
+Álex Abrines,6-6,200.0,32,FC Barcelona
+Miloš Teodosić,6-5,196.0,UFA,CSKA Moscow
+Deron Williams,6-3,200.0,3,Illinois
+Jerami Grant,6-7,210.0,39,Syracuse
+Baylor Scheierman,6-6,205.0,30,Creighton
+Tyus Jones,6-1,196.0,24,Duke
+JaKarr Sampson,6-7,214.0,UFA,St. John's (NY)
+Luke Babbitt,6-9,225.0,16,Nevada
+Jaxson Hayes,7-0,220.0,8,Texas
+Markieff Morris,6-9,245.0,13,Kansas
+Dylan Windler,6-7,196.0,26,Belmont
+Seth Curry,6-1,185.0,UFA,Duke
+Dante Cunningham,6-8,230.0,33,Villanova
+Zion Williamson,6-6,284.0,1,Duke
+Eric Bledsoe,6-1,214.0,18,Kentucky
+Malaki Branham,6-4,180.0,20,Ohio State
+Miles Plumlee,6-11,249.0,26,Duke
+Tre Mann,6-3,178.0,18,Florida
+Derrick Williams,6-8,240.0,2,Arizona
+Brandon Rush,6-6,225.0,13,Kansas
+Jarell Martin,6-10,239.0,25,Louisiana State
+Troy Williams,6-7,218.0,UFA,Indiana
+Timothé Luwawu-Cabarrot,6-7,215.0,24,Mega Basket
+John Collins,6-9,226.0,19,Wake Forest
+Josh Green,6-5,200.0,18,Arizona
+Ryan Dunn,6-8,216.0,28,Virginia
+Antonio Reeves,6-5,205.0,47,Kentucky
+Dirk Nowitzki,7-0,245.0,9,DJK Wurzburg
+Marreese Speights,6-10,255.0,16,Florida
+Darius Bazley,6-9,216.0,23,Princeton HS (OH)
+Kemba Walker,6-0,184.0,9,Connecticut
+Zeke Nnaji,6-9,240.0,22,Arizona
+Shawn Long,6-9,255.0,UFA,Louisiana-Lafayette
+Troy Brown Jr.,6-7,215.0,15,Oregon
+Norris Cole,6-2,175.0,28,Cleveland State
+Cody Martin,6-6,205.0,36,Nevada
+Buddy Hield,6-4,220.0,6,Oklahoma
+Sasha Vujačić,6-7,195.0,27,Udine
+Jabari Smith Jr.,6-10,220.0,3,Auburn
+Tidjane Salaün,6-8,207.0,6,Cholet
+Noah Vonleh,6-10,257.0,9,Indiana
+Semi Ojeleye,6-6,240.0,37,Southern Methodist
+Omer Yurtseven,6-11,275.0,UFA,Georgetown
+Kai Jones,6-11,221.0,19,Texas
+Dwight Buycks,6-3,190.0,UFA,Marquette
+Ja'Kobe Walter,6-5,180.0,19,Baylor
+Julian Strawther,6-6,205.0,29,Gonzaga
+Josh Smith,6-9,225.0,17,Oak Hill Academy (VA)
+Steven Adams,6-11,265.0,12,Pittsburgh
+Al Jefferson,6-10,280.0,15,No College
+Victor Oladipo,6-3,213.0,2,Indiana
+Ty Lawson,5-11,195.0,18,North Carolina
+Hamidou Diallo,6-5,202.0,45,Kentucky
+Tristan Vukcevic,7-0,220.0,42,Real Madrid
+Ricky Rubio,6-2,190.0,5,FC Barcelona
+Mo Bamba,7-0,231.0,6,Texas
+James Jones,6-8,218.0,49,Miami
+Jamal Crawford,6-5,200.0,8,Michigan
+Jaylin Williams,6-9,240.0,34,Arkansas
+Vlatko Čančar,6-8,236.0,49,San Pablo Burgos
+Bub Carrington,6-4,190.0,14,Pittsburgh
+Tyrese Haliburton,6-5,185.0,12,Iowa State
+Cameron Payne,6-3,183.0,14,Murray State
+Paul Reed,6-9,210.0,58,DePaul
+Rashad Vaughn,6-6,202.0,17,UNLV
+Alperen Şengün,6-11,243.0,16,Besiktas
+Robin Lopez,7-1,281.0,15,Stanford
+Gary Neal,6-4,210.0,UFA,Towson
+Ryan Broekhoff,6-6,215.0,UFA,Valparaiso
+Devin Booker,6-6,206.0,13,Kentucky
+Armoni Brooks,6-3,195.0,,Houston
+Malachi Flynn,6-1,185.0,29,San Diego State
+Brandon Williams,6-6,215.0,UFA,Davidson
+Jake Layman,6-8,209.0,47,Maryland
+Tristan Da Silva,6-8,217.0,18,Colorado
+Jalen Williams,6-5,211.0,12,Santa Clara
+Donald Sloan,6-3,205.0,UFA,Texas A&M
+Wayne Selden,6-4,232.0,,Kansas
+Brandin Podziemski,6-4,205.0,19,Santa Clara
+Jonas Valančiūnas,6-11,265.0,5,Lietuvos rytas Vilnius
+T.J. Warren,6-8,220.0,14,North Carolina State
+Joakim Noah,6-11,232.0,9,Florida
+Luis Scola,6-9,241.0,55,Tau Ceramica
+Killian Hayes,6-5,195.0,7,Ratiopharm Ulm
+Darren Collison,6-0,160.0,21,UCLA
+Jason Terry,6-2,185.0,10,Arizona
+Bruno Fernando,6-9,240.0,34,Maryland
+Jake LaRavia,6-7,235.0,19,Wake Forest
+Josh Okogie,6-4,213.0,20,Georgia Tech
+Matt Thomas,6-3,190.0,UFA,Iowa State
+Steve Blake,6-3,172.0,38,Maryland
+Eric Paschall,6-6,255.0,41,Villanova
+Manu Ginóbili,6-6,205.0,57,Virtus Bologna
+Desmond Bane,6-5,215.0,30,TCU
+Carmelo Anthony,6-7,238.0,3,Syracuse
+Emmanuel Mudiay,6-3,200.0,7,Guangdong
+Thomas Bryant,6-10,248.0,42,Indiana
+Cam Reddish,6-7,217.0,10,Duke
+Quincy Acy,6-7,240.0,37,Baylor
+Evan Fournier,6-6,205.0,20,Poitiers Basket 86
+Luke Kennard,6-5,206.0,12,Duke
+Tosan Evbuomwan,6-7,217.0,UFA,Princeton
+Jarred Vanderbilt,6-8,214.0,41,Kentucky
+Udoka Azubuike,6-11,270.0,27,Kansas
+Stephon Castle,6-6,215.0,4,Connecticut
+P.J. Tucker,6-5,245.0,35,Texas
+Facundo Campazzo,5-10,195.0,UFA,Murcia
+Josh Huestis,6-7,230.0,29,Stanford
+Tyler Hansbrough,,,13,North Carolina
+Tyler Zeller,6-11,250.0,17,North Carolina
+Payton Pritchard,6-1,195.0,26,Oregon
+Cristiano Felício,6-11,270.0,UFA,Flamengo
+Terrance Ferguson,6-6,190.0,21,Adelaide
+Isaiah Whitehead,6-4,213.0,42,Seton Hall
+Cam Thomas,6-3,210.0,27,Louisiana State
+Jae'Sean Tate,6-4,230.0,UFA,Ohio State
+Julian Champagnie,6-7,217.0,UFA,St. John's
+Miles Bridges,6-7,225.0,12,Michigan State
+Lucas Nogueira,7-0,220.0,16,Estudiantes
+Jimmy Butler,6-7,230.0,30,Marquette
+John Henson,6-9,219.0,14,North Carolina
+Matthew Dellavedova,6-3,200.0,UFA,Saint Mary's
+Anthony Edwards,6-4,225.0,1,Georgia
+Thomas Robinson,6-10,237.0,5,Kansas
+Aaron Wiggins,6-5,190.0,55,Maryland
+Anthony Lamb,6-6,227.0,UFA,Vermont
+Jalen Duren,6-10,250.0,13,Memphis
+Andrew Wiggins,6-7,197.0,1,Kansas
+Khris Middleton,6-7,222.0,39,Texas A&M
+Elfrid Payton,6-3,195.0,10,Louisana-Lafayette
+Maurice Harkless,6-7,220.0,15,"St. John's, N.Y."
+Dragan Bender,7-0,249.0,4,Maccabi Tel Aviv
+Richaun Holmes,6-9,235.0,37,Bowling Green
+R.J. Hampton,6-4,175.0,24,Capital City Go-Go
+Langston Galloway,6-1,200.0,UFA,St. Joseph's (PA)
+Nik Stauskas,6-6,207.0,8,Michigan
+Jordan McLaughlin,6-0,185.0,UFA,Southern California
+Sam Dekker,6-8,219.0,18,Wisconsin
+Dereck Lively II,7-1,230.0,12,Duke
+Delon Wright,6-5,185.0,20,Utah
+Brad Wanamaker,6-3,210.0,UFA,Pittsburgh
+Ky Bowman,6-1,187.0,UFA,Boston College
+Johnny Juzang,6-5,226.0,UFA,UCLA
+Justise Winslow,6-6,222.0,10,Duke
+Dāvis Bertāns,6-10,225.0,42,Baskonia
+Kel'el Ware,7-0,230.0,15,Indiana
+Obi Toppin,6-9,220.0,8,Dayton
+Ricky Council IV,6-6,207.0,UFA,Arkansas
+Jrue Holiday,6-4,205.0,17,UCLA
+Donatas Motiejūnas,7-0,220.0,20,Lithuania
+Amen Thompson,6-7,200.0,4,Overtime Elite
+LaMelo Ball,6-7,180.0,3,Illawarra
+Metta World Peace,6-7,260.0,16,St. John's (NY)
+Deni Avdija,6-9,240.0,9,Maccabi Tel Aviv
+Jabari Parker,6-7,245.0,2,Duke
+Alec Burks,6-5,214.0,12,Colorado
+Zaccharie Risacher,6-8,200.0,1,JL Bourg-en-Bresse
+Reggie Bullock,6-6,205.0,25,North Carolina
+Andrew Nicholson,6-9,250.0,19,St. Bonaventure
+Saddiq Bey,6-7,215.0,19,Villanova
+Sergio Rodríguez,6-3,176.0,27,Estudiantes
+Matt Barnes,6-7,226.0,45,UCLA
+Brandan Wright,6-10,235.0,8,North Carolina
+Paul Millsap,6-7,257.0,47,Louisiana Tech
+Rudy Gobert,7-1,258.0,27,Cholet
+George Hill,6-4,188.0,26,Indiana-Purdue Indianapolis
+Bogdan Bogdanović,6-5,225.0,27,Fenerbahce
+Nikola Jokić,6-11,284.0,41,Mega Basket
+Patrick Beverley,6-2,180.0,42,Arkansas
+Denzel Valentine,6-4,220.0,14,Michigan State
+Thon Maker,7-0,221.0,10,Athlete Institute Prep
+Lauri Markkanen,7-0,240.0,7,Arizona
+Reed Sheppard,6-2,185.0,3,Kentucky
+Adreian Payne,6-10,237.0,15,Michigan State
+Shaquille Harrison,6-4,195.0,UFA,Tulsa
+Gary Harris,6-4,210.0,19,Michigan State
+Ignas Brazdeikis,6-6,221.0,47,Michigan
+Adem Bona,6-10,235.0,41,UCLA
+Paolo Banchero,6-10,250.0,1,Duke
+Evan Mobley,6-11,215.0,3,Southern California
+Sean Kilpatrick,6-4,212.0,UFA,Cincinnati
+JJ Redick,6-3,200.0,11,Duke
+Mike Dunleavy,6-9,230.0,3,Duke
+Sekou Doumbouya,6-9,230.0,15,
+Karlo Matković,6-10,231.0,52,Mega Basket
+Marcus Smart,6-3,220.0,6,Oklahoma State
+Tre Jones,6-1,185.0,41,Duke
+Patrick Patterson,6-8,235.0,14,Kentucky
+Quinn Cook,6-1,180.0,UFA,Duke
+David Nwaba,6-5,219.0,UFA,Cal Poly-Obispo
+Jaron Blossomgame,6-8,220.0,59,Clemson
+Jevon Carter,6-1,200.0,32,West Virginia
+Brice Sensabaugh,6-5,235.0,28,Ohio State
+Nassir Little,6-6,220.0,25,North Carolina
+Trey Lyles,6-9,234.0,12,Kentucky
+Jalen Green,6-4,186.0,2,NBA G League Ignite
+T.J. McConnell,6-1,190.0,,Arizona
+Andrew Harrison,6-6,213.0,44,Kentucky
+Marcus Morris,6-8,218.0,14,Kansas
+Isaiah Stewart,6-8,250.0,16,Washington
+Jarrett Culver,6-6,195.0,6,Texas Tech
+Lamar Patterson,6-5,225.0,48,Pittsburgh
+Jabari Walker,6-7,237.0,57,Colorado
+Craig Porter Jr.,6-1,180.0,UFA,Wichita State
+Isaac Bonga,6-8,180.0,39,Skyliners Frankfurt
+Pat Connaughton,6-5,209.0,41,Notre Dame
+Kevin Porter Jr.,6-4,203.0,30,Southern California
+Dominick Barlow,6-8,215.0,UFA,Overtime Elite
+Sandro Mamukelashvili,6-9,240.0,54,Seton Hall
+Isaiah Jackson,6-9,205.0,22,Kentucky
+Michael Porter Jr.,6-10,218.0,14,Missouri
+Grant Williams,6-6,236.0,22,Tennessee
+Moses Moody,6-5,211.0,14,Arkansas
+Keegan Murray,6-8,225.0,4,Iowa
+Greg Brown III,6-7,206.0,43,Texas
+Jaylen Clark,6-4,205.0,53,UCLA
+Svi Mykhailiuk,6-7,205.0,47,Kansas
+Jordan Crawford,6-5,195.0,27,Xavier
+Michael Beasley,6-9,235.0,2,Kansas State
+Ronnie Price,6-2,190.0,UFA,Utah Valley
+Spencer Hawes,7-1,245.0,10,Washington
+James Michael McAdoo,6-9,230.0,UFA,North Carolina
+Dion Waiters,6-3,210.0,4,Syracuse
+Brandon Ingram,6-8,190.0,2,Duke
+Ed Davis,6-9,218.0,13,North Carolina
+Devin Carter,6-2,195.0,13,Providence
+De'Andre Hunter,6-8,221.0,4,Virginia
+Jaren Jackson Jr.,6-10,242.0,4,Michigan State
+Derrick Favors,6-9,265.0,3,Georgia Tech
+Tyler Cavanaugh,6-9,238.0,UFA,George Washington
+Toney Douglas,6-2,195.0,29,Florida State
+James Ennis III,6-6,215.0,50,Cal State-Long Beach
+Jaden Hardy,6-3,198.0,37,NBA G League Ignite
+Omri Casspi,6-9,225.0,23,Maccabi Tel Aviv
+Tony Parker,6-2,185.0,28,Paris Basket Racing
+Jakob Poeltl,7-0,260.0,9,Utah
+DeAndre Jordan,6-11,265.0,35,Texas A&M
+Cole Anthony,6-2,185.0,15,North Carolina
+Dean Wade,6-9,228.0,UFA,Kansas State
+Keldon Johnson,6-5,220.0,29,Kentucky
+Frank Mason III,5-11,190.0,34,Kansas
+Jalen Smith,6-9,215.0,10,Maryland
+Courtney Lee,6-5,215.0,22,Western Kentucky
+Derrick Jones Jr.,6-6,210.0,UFA,UNLV
+Wes Iwundu,6-6,195.0,33,Kansas State
+David West,6-9,250.0,18,Xavier
+Gary Clark,6-6,225.0,UFA,Cincinnati
+Kevin Love,6-8,251.0,5,UCLA
+Alonzo Gee,6-6,225.0,UFA,Alabama
+Justin Anderson,6-5,231.0,21,Virginia
+Raul Neto,6-2,180.0,47,Murcia
+Marvin Bagley III,6-10,235.0,2,Duke
+Elie Okobo,6-3,190.0,31,Elan Bearnais
+Alex Len,7-0,250.0,5,Maryland
+Christian Koloko,7-0,225.0,33,Arizona
+Trendon Watford,6-8,237.0,UFA,Louisiana State
+Tyler Johnson,6-3,186.0,UFA,Fresno State
+Aaron Holiday,6-0,185.0,23,UCLA
+Jalen Suggs,6-5,205.0,5,Gonzaga
+Quinten Post,7-0,238.0,52,Boston College
+Mason Plumlee,6-10,254.0,22,Duke
+Nemanja Bjelica,6-9,234.0,35,Fenerbahce
+Gui Santos,6-6,185.0,55,Minas
+Trayce Jackson-Davis,6-9,245.0,57,Indiana
+Vasilije Micić,6-3,188.0,52,Serbia
+Royce O'Neale,6-6,226.0,UFA,Baylor
+Dejounte Murray,6-4,180.0,29,Washington
+Chris Paul,6-0,175.0,4,Wake Forest
+Naz Reid,6-9,264.0,UFA,Louisiana State
+Mario Hezonja,6-8,220.0,5,FC Barcelona
+Nick Collison,6-10,255.0,12,Kansas
+Nicolò Melli,6-9,236.0,UFA,Fenerbahce
+Paul Zipser,6-8,226.0,48,Bayern Munich
+Donte DiVincenzo,6-4,203.0,17,Villanova
+Robert Williams,6-9,249.0,27,Texas A&M
+Bradley Beal,6-4,207.0,3,Florida
+Joe Young,6-2,185.0,43,Oregon
+Daishen Nix,6-4,238.0,UFA,NBA G League Ignite
+Tarik Black,6-9,250.0,UFA,Kansas
+Jarrett Allen,6-9,243.0,22,Texas
+Channing Frye,7-0,255.0,8,Arizona
+Kelly Olynyk,6-11,240.0,13,Gonzaga
+Moses Brown,7-2,258.0,UFA,UCLA
+Tyrese Martin,6-6,215.0,51,Connecticut
+James Harden,6-5,220.0,3,Arizona State
+Nikola Mirotić,6-10,250.0,23,Real Madrid
+Scottie Barnes,6-7,237.0,4,Florida State
+Damyean Dotson,6-5,210.0,44,Houston
+Allen Crabbe,6-5,212.0,31,California
+Derrick Rose,6-3,200.0,1,Memphis
+Sasha Vezenkov,6-8,225.0,57,"Barcelona, Spain"
+Anthony Black,6-7,200.0,6,Arkansas
+Anfernee Simons,6-3,200.0,24,Edgewater HS (FL)
+Tyler Ulis,5-10,160.0,34,Kentucky
+Grayson Allen,6-4,198.0,21,Duke
+Serge Ibaka,6-11,235.0,24,Ricoh Manresa
+Frank Kaminsky,7-0,240.0,9,Wisconsin
+Monte Morris,6-2,183.0,51,Iowa State
+Santi Aldama,7-0,215.0,30,Loyola-Maryland
+Tomáš Satoranský,6-7,210.0,32,FC Barcelona
+Kevin Knox,6-8,215.0,9,Kentucky
+Kessler Edwards,6-7,203.0,44,Pepperdine
+Terence Davis,6-4,201.0,UFA,Mississippi
+Josh Richardson,6-5,200.0,40,Tennessee
+Mike Scott,6-7,237.0,43,Virginia
+Stanley Johnson,6-6,242.0,8,Arizona
+Marcus Thornton,6-4,205.0,43,Louisiana State
+Eric Moreland,6-10,238.0,UFA,Oregon State
+Ousmane Dieng,6-9,185.0,11,New Zealand Breakers
+Trey Jemison,6-11,270.0,UFA,Alabama-Birmingham
+Mirza Teletović,6-9,242.0,UFA,Baskonia
+Jonathan Kuminga,6-7,225.0,7,NBA G League Ignite
+Charlie Villanueva,6-11,232.0,7,Connecticut
+Amir Coffey,6-7,210.0,UFA,Minnesota
+De'Anthony Melton,6-3,200.0,46,USC
+Stephen Curry,6-2,185.0,7,Davidson
+Donovan Clingan,7-2,280.0,7,Connecticut
+James Bouknight,6-4,190.0,11,Connecticut
+Džanan Musa,6-9,217.0,29,Cedevita
+Willie Cauley-Stein,7-0,240.0,6,Kentucky
+Jaylen Wells,6-8,,39,Washington State
+Myles Turner,6-11,250.0,11,Texas
+Anthony Davis,6-10,253.0,1,Kentucky
+Cole Aldrich,6-11,253.0,11,Kansas
+Willy Hernangómez,6-11,250.0,35,Cajasol Sevilla
+Ryan Hollins,7-0,240.0,50,UCLA
+Timofey Mozgov,7-1,275.0,UFA,Khimki
+Ryan Rollins,6-3,180.0,44,Toledo
+Bryce McGowens,6-6,190.0,40,Nebraska
+Scoot Henderson,6-3,206.0,3,NBA G League Ignite
+Quenton Jackson,6-5,173.0,UFA,Texas A&M
+Julius Randle,6-9,250.0,7,Kentucky
+Derrick White,6-4,190.0,29,Colorado
+Raymond Felton,6-1,205.0,5,North Carolina
+Alexis Ajinça,7-2,248.0,20,Hyeres-Toulon
+Brian Roberts,6-1,173.0,UFA,Dayton
+Dennis Schröder,6-1,175.0,17,Braunschweig
+Kyle Collinsworth,6-6,210.0,,Brigham Young
+Edmond Sumner,6-4,196.0,52,Xavier
+Justin Edwards,6-7,203.0,UFA,Kentucky
+Hunter Tyson,6-8,215.0,37,Clemson
+Duane Washington Jr.,6-2,197.0,UFA,Ohio State
+Anthony Gill,6-8,230.0,UFA,Virginia
+Aaron Gordon,6-8,235.0,4,Arizona
+OG Anunoby,6-7,240.0,23,Indiana
+Julian Phillips,6-8,198.0,35,Tennessee
+Andrea Bargnani,7-0,245.0,1,Benetton Treviso
+Jordan Bell,6-7,216.0,38,Oregon
+Jalen Pickett,6-2,202.0,32,Penn State
+Josh Jackson,6-8,207.0,4,Kansas
+Tim Frazier,6-0,170.0,UFA,Penn State
+Jonas Jerebko,6-10,231.0,39,Angelico Biella
+JT Thor,6-9,203.0,37,Auburn
+Cory Joseph,6-2,200.0,29,Texas
+James Johnson,6-7,240.0,16,Wake Forest
+Marco Belinelli,6-5,220.0,18,Fortitudo Bologna
+Josh Giddey,6-8,216.0,6,NBA Global Academy
+Dennis Smith Jr.,6-3,205.0,9,North Carolina State
+Skal Labissière,6-10,235.0,28,Kentucky
+Shane Larkin,5-11,175.0,18,Miami
+Ekpe Udoh,6-10,245.0,6,Baylor
+Isaiah Taylor,6-3,170.0,,Texas
+Mikal Bridges,6-6,209.0,10,Villanova
+Andre Drummond,6-11,279.0,9,Connecticut
+LaMarcus Aldridge,6-11,250.0,2,University of Texas at Austin
+Shabazz Muhammad,6-6,221.0,14,UCLA
+Justin Champagnie,6-6,206.0,UFA,Pittsburgh
+Kay Felder,5-9,176.0,54,Oakland
+Kenneth Faried,6-8,220.0,22,Morehead State
+Rondae Hollis-Jefferson,6-6,217.0,23,Arizona
+Johnny O'Bryant,6-9,257.0,36,Louisiana State
+Quentin Grimes,6-4,210.0,25,Houston
+Hassan Whiteside,7-0,265.0,33,Marshall
+Reggie Jackson,6-2,208.0,24,Boston College
+Karl-Anthony Towns,7-0,248.0,1,Kentucky
+Jon Leuer,6-10,228.0,40,Wisconsin
+Damian Lillard,6-2,195.0,6,Weber State
+Travis Wear,6-10,225.0,UFA,UCLA
+Paul George,6-8,220.0,10,Fresno State
+Marcin Gortat,6-11,240.0,57,RheinEnergie Cologne
+CJ Elleby,6-6,200.0,46,Washington State
+Coby White,6-5,195.0,7,North Carolina
+Patrick McCaw,6-7,181.0,38,UNLV
+Tiago Splitter,6-11,245.0,28,Bilbao
+Tayshaun Prince,6-9,212.0,23,Kentucky
+Devonte' Graham,6-1,195.0,34,Kansas
+Jalen Brunson,6-2,190.0,33,Villanova
+Toumani Camara,6-7,229.0,52,Dayton
+Dwyane Wade,6-4,220.0,5,Marquette
+Ersan İlyasova,6-9,235.0,36,FC Barcelona
+Chandler Parsons,6-9,230.0,38,Florida
+Ömer Aşık,7-0,255.0,36,Fenerbahce
+Patrick Williams,6-7,215.0,4,Florida State
+Vit Krejci,6-8,195.0,37,Zaragoza
+Caleb Houstan,6-8,205.0,32,Michigan
+Terry Rozier,6-1,190.0,16,Louisville
+Justin Jackson,6-8,220.0,15,North Carolina
+Fred VanVleet,6-0,197.0,UFA,Wichita State
+Tony Bradley,6-11,248.0,28,North Carolina
+Malik Beasley,6-4,187.0,19,Florida State
+Rodions Kurucs,6-9,228.0,40,FC Barcelona
+Kyrie Irving,6-2,195.0,1,Duke
+Mark Williams,7-0,240.0,15,Duke
+T.J. Leaf,6-10,222.0,18,UCLA
+Dwight Howard,6-10,265.0,1,SW Atlanta Christian Academy (GA)
+C.J. Watson,6-2,175.0,UFA,Tennessee
+Jameer Nelson,6-0,190.0,20,St. Joseph's (PA)
+Usman Garuba,6-8,229.0,23,Real Madrid
+Dyson Daniels,6-7,199.0,8,NBA G League Ignite
+Bones Hyland,6-2,169.0,26,Virginia Commonwealth
+Guerschon Yabusele,6-8,265.0,16,"Rouen, France"
+Chasson Randle,6-2,185.0,,Stanford
+Jamison Battle,6-7,220.0,UFA,Ohio State
+Lorenzo Brown,6-5,189.0,52,North Carolina State
+Justin James,6-7,190.0,40,Wyoming
+Andre Jackson Jr.,6-6,209.0,36,Connecticut
+Lonzo Ball,6-6,190.0,2,UCLA
+Okaro White,6-8,205.0,UFA,Florida State
+Carl Landry,6-9,248.0,31,Purdue
+Festus Ezeli,6-11,265.0,30,Vanderbilt
+Ian Mahinmi,6-11,262.0,28,Pau Orthez
+Taurean Prince,6-6,218.0,12,Baylor
+Gary Trent Jr.,6-5,204.0,37,Duke
+Keita Bates-Diop,6-8,229.0,48,Ohio State
+Brandon Bass,6-8,250.0,33,Louisiana State
+Rayjon Tucker,6-3,209.0,UFA,Arkansas-Little Rock
+Charles Bassey,6-10,230.0,53,Western Kentucky
+Justin Hamilton,7-0,255.0,45,Louisiana State
+Emeka Okafor,6-10,255.0,2,Connecticut
+Matas Buzelis,6-10,209.0,11,NBA G League Ignite
+MarJon Beauchamp,6-7,199.0,24,NBA G League Ignite
+José Calderón,6-3,200.0,UFA,Tau Ceramica
+Andrew Nembhard,6-4,191.0,31,Gonzaga
+Théo Maledon,6-4,175.0,34,ASVEL
+Bennedict Mathurin,6-5,210.0,6,Arizona
+Ty Jerome,6-5,195.0,24,Virginia
+Alex Sarr,7-0,205.0,2,Washington Wizards
+Kelan Martin,6-5,230.0,UFA,Butler
+Bojan Bogdanović,6-7,226.0,31,Fenerbahce
+Duop Reath,6-9,245.0,UFA,Louisiana State
+Kobe Brown,6-7,250.0,30,Missouri
+Brandon Goodwin,6-0,180.0,UFA,Florida Gulf Coast
+Lonnie Walker IV,6-4,204.0,18,Miami
+Gabe Vincent,6-2,200.0,UFA,California-Santa Barbara
+Collin Gillespie,6-1,195.0,UFA,Villanova
+Olivier-Maxence Prosper,6-7,230.0,24,Marquette
+Mike Conley,6-0,175.0,4,Ohio State
+Isaiah Briscoe,6-3,215.0,UFA,Kentucky
+Rudy Gay,6-8,250.0,8,Connecticut
+Cade Cunningham,6-6,220.0,1,Oklahoma State
+Donovan Mitchell,6-3,215.0,13,Louisville
+Luka Garza,6-10,243.0,52,Iowa
+Semaj Christon,6-3,190.0,55,Xavier
+Omari Spellman,6-8,245.0,30,Villanova
+Isaiah Canaan,6-0,200.0,34,Murray State
+Landry Shamet,6-4,190.0,26,Wichita State
+Max Strus,6-5,215.0,UFA,DePaul
+Darius Garland,6-1,192.0,5,Vanderbilt
+Tyreke Evans,6-6,220.0,4,Memphis
+Ben McLemore,6-3,195.0,7,Kansas
+Jordan Hill,6-10,240.0,8,Arizona
+Jason Smith,7-0,240.0,20,Colorado State
+Shaedon Sharpe,6-5,208.0,7,Kentucky
+Dalton Knecht,6-6,215.0,17,Tennessee
+Bol Bol,7-3,220.0,44,Oregon
+Luc Mbah a Moute,6-8,230.0,37,UCLA
+Terance Mann,6-5,215.0,48,Florida State
+Kelly Oubre Jr.,6-8,203.0,15,Kansas
+Cody Zeller,6-11,240.0,4,Indiana
+John Konchar,6-5,210.0,UFA,Indiana-Purdue Fort Wayne
+David Roddy,6-4,255.0,23,Colorado State
+Tobias Harris,6-8,226.0,19,Tennessee
+Caleb Martin,6-5,205.0,UFA,Nevada
+De'Aaron Fox,6-3,185.0,5,Kentucky
+KJ Simpson,6-0,189.0,42,Colorado
+Georges Niang,6-7,230.0,50,Iowa State
+Jaden McDaniels,6-9,185.0,28,Washington
+Ben Simmons,6-10,240.0,1,Louisiana State
+Jaime Jaquez Jr.,6-6,225.0,18,UCLA
+Cason Wallace,6-3,195.0,10,Kentucky
+Yuta Watanabe,6-9,215.0,UFA,George Washington
+Wayne Ellington,6-4,207.0,28,North Carolina
+Caleb Swanigan,6-9,260.0,26,Purdue
+Chet Holmgren,7-1,208.0,2,Gonzaga
+Alan Anderson,6-6,220.0,UFA,Michigan State
+Joshua Primo,6-4,189.0,12,Alabama
+Devin Harris,6-3,185.0,5,Wisconsin
+Johnny Davis,6-2,170.0,22,Dayton
+Ian Clark,6-3,175.0,UFA,Belmont
+Jarace Walker,6-7,235.0,8,Houston
+Beno Udrih,6-3,205.0,28,Olimpia Milano
+D.J. Augustin,5-11,183.0,9,Texas
+Herbert Jones,6-7,206.0,35,Alabama
+Jordan Poole,6-4,194.0,28,Michigan
+Kyshawn George,6-8,200.0,24,Miami
+AJ Johnson,6-5,160.0,23,Illawarra
+Jarrett Jack,6-3,200.0,22,Georgia Tech
+Tyrone Wallace,6-5,198.0,60,California
+Greg Monroe,6-10,250.0,7,Georgetown
+Jay Huff,7-1,240.0,UFA,Virginia
+Gradey Dick,6-6,200.0,13,Kansas
+Sterling Brown,6-5,219.0,46,Southern Methodist
+Brandon Knight,6-2,182.0,8,Kentucky
+Trae Young,6-1,164.0,5,Oklahoma
+Shai Gilgeous-Alexander,6-6,195.0,11,Kentucky
+CJ McCollum,6-3,190.0,10,Lehigh
+Clint Capela,6-10,256.0,25,Elan Chalon
+Domantas Sabonis,6-10,240.0,11,Gonzaga
+Meyers Leonard,7-0,260.0,11,Illinois
+Isaiah Roby,6-8,230.0,45,Nebraska
+Jordan Miller,6-5,194.0,48,Miami
+Dorian Finney-Smith,6-7,220.0,UFA,Florida
+Zach Randolph,6-9,250.0,19,Michigan State
+Cam Whitmore,6-7,230.0,20,Villanova
+Boban Marjanović,7-4,290.0,UFA,Crvena zvezda
+Damian Jones,6-10,245.0,30,Vanderbilt
+Kentavious Caldwell-Pope,6-5,204.0,8,Georgia
+Tyrese Maxey,6-2,200.0,21,Kentucky
+Thabo Sefolosha,6-6,215.0,13,Angelico Biella
+Rui Hachimura,6-8,230.0,9,Gonzaga
+Oso Ighodaro,7-0,235.0,40,Marquette
+Chris Bosh,6-11,235.0,4,Georgia Tech
+Yogi Ferrell,6-0,178.0,UFA,Indiana
+Rob Dillingham,6-3,175.0,8,Kentucky
+Zach Edey,7-4,305.0,9,Purdue
+Goga Bitadze,6-10,250.0,18,Mega Basket
+Nick Richards,7-0,245.0,42,Kentucky
+Tony Allen,6-4,213.0,25,Oklahoma State
+Jordan Hawkins,6-5,190.0,14,Connecticut
+Michael Carter-Williams,6-5,190.0,11,Syracuse
+Jose Alvarado,6-0,179.0,UFA,Georgia Tech
+C.J. Williams,6-5,226.0,0,North Carolina State
+Al-Farouq Aminu,6-8,220.0,8,Wake Forest
+Nikola Vučević,6-10,260.0,16,Southern California
+Yves Missi,6-11,235.0,21,Baylor
+Duncan Robinson,6-7,215.0,UFA,Michigan
+Jeff Green,6-8,235.0,5,Georgetown
+Arron Afflalo,6-5,210.0,27,UCLA
+Bobby Portis,6-10,250.0,22,Arkansas
+Nicolás Brussino,6-8,195.0,UFA,Penarol
+Dario Šarić,6-10,225.0,12,Anadolu Efes
+Ayo Dosunmu,6-5,200.0,38,Illinois
+Anthony Tolliver,6-8,240.0,UFA,Creighton
+Keifer Sykes,5-11,167.0,UFA,Wisconsin-Green Bay
+Josh Minott,6-8,205.0,45,Memphis
+KJ Martin,6-6,215.0,52,IMG Academy (FL)
+Moritz Wagner,6-11,245.0,25,Michigan
+JaMychal Green,6-9,227.0,UFA,Alabama
+Ja Morant,6-2,174.0,2,Murray State
+Chris Boucher,6-9,200.0,UFA,Oregon
+Mike Muscala,6-10,240.0,44,Bucknell
+Kenrich Williams,6-6,210.0,UFA,TCU
+Larry Nance Jr.,6-8,245.0,27,Wyoming
+Luka Dončić,6-6,230.0,3,Real Madrid
+Iman Shumpert,6-5,212.0,17,Georgia Tech
+Furkan Korkmaz,6-7,202.0,26,Anadolu Efes
+Robert Covington,6-7,209.0,UFA,Tennessee State
+Bruno Caboclo,6-9,218.0,20,Pinheiros
+Shake Milton,6-5,205.0,54,Southern Methodist
+Kevin Durant,6-11,240.0,2,Texas
+Jaden Ivey,6-4,195.0,5,Purdue
+Jeff Teague,6-3,195.0,19,Wake Forest
+Markel Brown,6-3,190.0,44,Oklahoma State
+James Wiseman,6-11,240.0,2,Memphis
+Kobi Simmons,6-5,180.0,UFA,Arizona
+Bryn Forbes,6-2,205.0,UFA,Michigan State
+Jaylen Brown,6-6,223.0,3,California
+Isaac Jones,6-9,245.0,UFA,Washington State
+Jerome Robinson,6-5,190.0,13,Boston College
+Zaza Pachulia,6-11,270.0,42,Ulkerspor
+Austin Rivers,6-4,200.0,10,Duke
+Franz Wagner,6-10,220.0,8,Michigan
+Jodie Meeks,6-4,210.0,41,Kentucky
+Ryan Arcidiacono,6-3,195.0,UFA,Villanova
+Naji Marshall,6-6,220.0,UFA,Xavier
+Simone Fontecchio,6-7,209.0,UFA,Baskonia
+Gerald Henderson,6-2,175.0,64,Virginia Commonwealth
+Jordan Walsh,6-6,205.0,38,Arkansas
+Dewayne Dedmon,6-10,245.0,UFA,USC
+Antonio Blakeney,6-4,192.0,UFA,Louisiana State
+Michael Kidd-Gilchrist,6-6,232.0,2,Kentucky
+Rajon Rondo,6-1,180.0,21,Kentucky
+Trey Murphy III,6-8,206.0,17,Virginia
+Patrick Baldwin Jr.,6-9,220.0,28,Wisconsin-Milwaukee
+Spencer Dinwiddie,6-5,215.0,38,Colorado
+Joel Embiid,7-0,280.0,3,Kansas
+Chris Duarte,6-5,190.0,13,Oregon
+Luka Šamanić,6-10,227.0,19,Union Olimpija
+Deandre Ayton,7-0,252.0,1,Arizona
+Brook Lopez,7-1,282.0,10,Stanford
+E'Twaun Moore,6-3,191.0,55,Purdue
+Torrey Craig,6-5,221,UFA,South Carolina Upstate
+Nicolas Batum,6-8,230,25,Le Mans
+Kira Lewis Jr.,6-1,170,13,Alabama
+Cody Williams,6-7,190,10,Colorado
+Ramon Sessions,6-3,190,56,Nevada-Reno
+Blake Griffin,6-9,250,1,Oklahoma
+Blake Wesley,6-3,185,25,Notre Dame
+Rodney Hood,6-8,208,23,Duke
+Brandon Paul,6-4,200,UFA,Illinois
+Ryan Anderson,6-9,240,21,California
+Treveon Graham,6-5,219,UFA,Va Commonwealth
+Quincy Pondexter,6-7,230,26,Washington
+Tyler Dorsey,6-4,180,41,Oregon
+Jared Butler,6-3,193,40,Baylor
+Malcolm Brogdon,6-4,229,36,Virginia
+LeBron James,6-9,250,1,St. Vincent-St. Mary HS (OH)
+Boris Diaw,6-8,250,21,Pau Orthez
+Terrence Ross,6-7,206,8,Washington
+Jalen Johnson,6-8,219,20,Duke
+Danuel House Jr.,6-6,220,UFA,Texas A&M
+Marc Gasol,6-11,255,48,FC Barcelona
+Kyle Filipowski,6-11,250,32,Duke
+Mitchell Robinson,7-0,240,36,Western Kentucky
+Tristan Thompson,6-9,254,4,Texas-Austin
+Kevin Séraphin,6-10,278,17,Cholet
+Garrett Temple,6-5,195,UFA,Louisiana State
+Jordan Clarkson,6-3,194,46,Missouri
+Keon Johnson,6-5,185,21,Tennessee
+Cameron Johnson,6-8,210,11,North Carolina
